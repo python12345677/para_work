@@ -175,7 +175,7 @@ def one_curve_test(probe_lis,Hc=None,g=None,eps=None,t2=None):
     # atom_exp = abs(res.expect[2][-1])
     # print(atom_exp)
     probe_lis = probe_lis
-    spec2 = spectrum(H0,probe_lis,c_ops,ad,a)
+    spec2 = spectrum(H,probe_lis,c_ops,ad,a)
     return spec2
 
 

@@ -1,5 +1,12 @@
-# para_work
-参量放大模拟工作
+# work1
+- cavity + qubit
+- bloch-redfield no cavity
+- bloch-redfield + drive
 
-# first part
-比特加腔
+# work2
+- floquet compared with bloch-redfield+drive
+- LZSM by bloch-redfield+drive
+- 
+
+
+# 备注
